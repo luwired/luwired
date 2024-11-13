@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm 0xKiroz ✨</h1>
 
 <div align="">
-  <h2>🚀 Skills</h2>
+  <h2>⚙️ Skills</h2>
   <ul>
     <li>Software Engineer</li>
     <li>Pentester</li>
