@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm 0xKiroz ✨</h1>
 
-<!--
-**0xKiroz/0xKiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="">
+  <h2>🚀 Skills</h2>
+  <ul>
+    <li>Software Engineer</li>
+    <li>Pentester</li>
+    <li>Red Team Operations</li>
+    <li>Bug Hunter</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="center">
+    <a href="https://tryhackme.com/p/0xKiroz">
+      <img height="60em" src="https://tryhackme-badges.s3.amazonaws.com/0xKiroz.png?update=1" alt="TryHackMe">
+    </a>
+    <!--     <a href="https://www.linkedin.com/in//">
+      <img height="60em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> -->
+  </p>
+</div>
