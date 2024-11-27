@@ -7,6 +7,7 @@
     <li>Pentester</li>
     <li>Red Team Operations</li>
     <li>Bug Hunter</li>
+    <li>Webdev</li>
   </ul>
 </div>
 
