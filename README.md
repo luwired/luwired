@@ -8,6 +8,7 @@
     <li>Red Team Operations</li>
     <li>Bug Hunter</li>
     <li>Webdev</li>
+    <li>Android Developer</li>
   </ul>
 </div>
 
