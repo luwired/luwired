@@ -4,6 +4,7 @@
   <h2>⚙️ Skills</h2>
   <ul>
     <li>Software Engineer</li>
+    <li>AI/ML</li>
     <li>Backend</li>
     <li>Android Developer</li>
     <li>Pentester</li>
