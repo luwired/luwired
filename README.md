@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Kiroz ✨</h1>
+<h1 align="center">Hi there ✨</h1>
 
 <div align="">
   <h2>⚙️ Skills</h2>
