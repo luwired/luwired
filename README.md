@@ -9,7 +9,6 @@
     <li>Android Developer</li>
     <li>Pentester</li>
     <li>Red Team Operations</li>
-    <li>Bug Hunter</li>
   </ul>
 </div>
 
