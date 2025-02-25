@@ -9,7 +9,7 @@
 
 ---
 
-### ⚙️ Tech stack
+### ⚙️ Tech stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,django,nodejs,react,flask,mysql,git,github,aws,docker,pytorch,androidstudio,neovim,linux,bash,powershell&perline=10" alt="Tech stack">
