@@ -18,7 +18,7 @@
 ## 👤 Contact 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,twitter" alt="Linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
 </p>
 
 ---
