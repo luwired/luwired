@@ -27,8 +27,8 @@
 
 ### 👤 Contact:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucianosantos-cyber/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucianosantos-cyber/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40">
   </a>
 </p>
