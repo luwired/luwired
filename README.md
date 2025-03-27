@@ -1,8 +1,8 @@
 ### Hi folks, I'm Luciano Santos.
 <ul>
   <li>Software Engineer</li>
-  <li>ML/AI</li>
   <li>Data Analysis and Data Science</li>
+  <li>ML/AI</li>
   <li>Backend</li>
   <li>Android</li>
   <li>Pentester</li>
