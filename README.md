@@ -13,7 +13,7 @@
 ### ⚙️ Tech stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,django,fastapi,mysql,git,github,aws,docker,sklearn,pytorch,tensorflow,vscode,androidstudio,neovim,linux,arch,bash,powershell&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,django,fastapi,mysql,git,github,aws,docker,sklearn,pytorch,tensorflow,androidstudio,neovim,linux,arch,bash,powershell&perline=10" alt="Tech stack">
 </p>
 
 ----
